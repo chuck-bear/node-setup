@@ -112,7 +112,7 @@ RestartSec=10s
 WantedBy=multi-user.target
 ```
 
-static peers in geth.toml:
+*Static peers in geth.toml*
 ```toml
 [Node.P2P]
 StaticNodes = [
