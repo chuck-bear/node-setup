@@ -1,6 +1,6 @@
 # Guide to setting up execution clients
 
-**/!\ THIS IS ONLY FOR BARTIO /!\**
+** THIS IS ONLY FOR BARTIO **
 
 **All ETH Execution Clients Are Supported!**
 
