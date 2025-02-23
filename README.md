@@ -1,5 +1,6 @@
 # Guide to setting up execution clients
 
+** /!\ THIS IS ONLY FOR BARTIO /!\ ** 
 **All ETH Execution Clients Are Supported!**
 
 However, some may require more configuration and fine tweaking than others to target our blocktime. For that reason, we currently most recommend the following:
